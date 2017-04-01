@@ -114,10 +114,9 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [python-zpar](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constiuency parser, and dependency parser for English.
   * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
   * [spaCy](https://github.com/spacy-io/spaCy) - Industrial strength NLP with Python and Cython.
-  * [textacy](https://github.com/chartbeat-labs/textacy) - Higher level NLP built on spaCy
   * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
-  * [gensim](https://radimrehurek.com/gensim/index.html) - Python library to conduct unsupervised semantic modelling from plain text
-  * [scattertext](https://github.com/JasonKessler/scattertext) - Python library to produce d3 visualizations of how language differs between corpora.
+  * [gensim](https://radimrehurek.com/gensim/index.html) - Python library to conduct unsupervised semantic modelling from plain text
+  * [scattertext](https://github.com/JasonKessler/scattertext) - Python library to produce d3 visualizations of how language differs between corpora.
 
   
 * <a id="c++">**C++** - C++ Libraries</a>
@@ -149,6 +148,7 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [ATR4S](https://github.com/ispras/atr4s) - Toolkit with state-of-the-art [automatic term recognition](https://en.wikipedia.org/wiki/Terminology_extraction) methods.
   * [tm](https://github.com/ispras/tm) - Implementation of topic modeling based on regularized multilingual [PLSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis).
   * [word2vec-scala](https://github.com/Refefer/word2vec-scala) - Scala interface to word2vec model; includes operations on vectors like word-distance and word-analogy.
+  * [Epic](https://github.com/dlwh/epic) - Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models. 
 
 * <a id="R">**R** - R NLP Libraries</a>
   * [text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R.
@@ -315,7 +315,7 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * Blog Post on [NLP Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/)
 * [Natural Language Processing Blog](http://nlpers.blogspot.ch/) by Hal Daumé III
 * [Machine Learning Blog](https://bmcfee.github.io/#home) by Brian McFee
-
+* Ultimate Guide to [Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 
 ## Credits
 part of the lists are from
