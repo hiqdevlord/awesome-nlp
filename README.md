@@ -119,6 +119,7 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
   * [gensim](https://radimrehurek.com/gensim/index.html) - Python library to conduct unsupervised semantic modelling from plain text
   * [scattertext](https://github.com/JasonKessler/scattertext) - Python library to produce d3 visualizations of how language differs between corpora.
+  * [sioux](https://github.com/CogComp/sioux) - Light-weight Python NLP annotators.
 
   
 * <a id="c++">**C++** - C++ Libraries</a>
@@ -318,8 +319,6 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * [Natural Language Processing Blog](http://nlpers.blogspot.ch/) by Hal Daumé III
 * [Machine Learning Blog](https://bmcfee.github.io/#home) by Brian McFee
 * Ultimate Guide to [Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
-*[Introduction to NLP]
-(https://hackernoon.com/learning-ai-if-you-suck-at-math-p7-the-magic-of-natural-language-processing-f3819a689386)
 
 ## Credits
 part of the lists are from
