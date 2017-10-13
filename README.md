@@ -99,7 +99,6 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [Natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 
 * <a id="python">**Python** - Python NLP Libraries</a>
-  * [fastText by Facebook](https://github.com/facebookresearch/fastText) - for efficient learning of word representations and sentence classification
   * [Scikit-learn: Machine learning in Python](http://arxiv.org/pdf/1201.0490.pdf)
   * [Natural Language Toolkit (NLTK)](http://www.nltk.org/)
   * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
@@ -312,6 +311,7 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * [Slides from Google Talk](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
 
 ### Supplementary Materials
+* [DrQA: Open Domain Question Answering](https://github.com/facebookresearch/DrQA) by facebook on Wikipedia data
 * [Word2Vec](https://github.com/clulab/nlp-reading-group/wiki/Word2Vec-Resources)
 * [Relation Extraction with Matrix Factorization and Universal Schemas](http://www.riedelcastro.org//publications/papers/riedel13relation.pdf)
 * [Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors](http://www.aclweb.org/anthology/S13-1001)
