@@ -138,6 +138,7 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [Mecab (Japanese)](http://taku910.github.io/mecab/)
   * [Mecab (Korean)](http://eunjeon.blogspot.com/)
   * [Moses](http://statmt.org/moses/)
+  * [StarSpace](https://github.com/facebookresearch/StarSpace) - a library from Facebook for creating embeddings of word-level, paragraph-level, document-level and for text classification 
 
 * <a id="java">**Java** - Java NLP Libraries</a>
   * [Stanford NLP](http://nlp.stanford.edu/software/index.shtml)
@@ -311,7 +312,6 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * [Slides from Google Talk](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
 
 ### Supplementary Materials
-* [DrQA: Open Domain Question Answering](https://github.com/facebookresearch/DrQA) by facebook on Wikipedia data
 * [Word2Vec](https://github.com/clulab/nlp-reading-group/wiki/Word2Vec-Resources)
 * [Relation Extraction with Matrix Factorization and Universal Schemas](http://www.riedelcastro.org//publications/papers/riedel13relation.pdf)
 * [Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors](http://www.aclweb.org/anthology/S13-1001)
