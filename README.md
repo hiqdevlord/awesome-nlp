@@ -90,6 +90,7 @@ Word embeddings, RNNs, LSTMs and CNNs for Natural Language Processing | [Back to
 [Lecture Slides and Reading Material here](http://web.stanford.edu/class/cs224n/)
 * [Deep Learning for Natural Language Processing (cs224*d* 2016)](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) by Richard Socher. Updated to make use of Tensorflow. Some lectures missing. [Lecture Slides + Reading Materials](http://cs224d.stanford.edu/syllabus.html)
 * [Deep Learning for Natural Language Processing (cs224*d* 2015)](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q) by Richard Socher
+* [Coursera's Natural Language Processing](https://www.coursera.org/learn/language-processing) by National Research University Higher School of Economics
 
 #### Classical NLP
 Bayesian, statistics and Linguistics approaches for Natural Language Processing | [Back to Top](#contents)
@@ -102,6 +103,7 @@ Bayesian, statistics and Linguistics approaches for Natural Language Processing 
 
 * [Text Mining in R](https://www.tidytextmining.com)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## Libraries
 
@@ -294,7 +296,7 @@ Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  A
 [Back to Top](#contents)
 Some are courtesy [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
 
-* Interactive tutorial on [Augmented RNNs](http://www.distill.pub/2016/augmented-rnns/) including Attention and Memory networks
+* Interactive tutorial on [Augmented RNNs](www.distill.pub/2016/augmented-rnns/) including Attention and Memory networks
 * [Annotated Transformer](http://nlp.seas.harvard.edu//2018/04/03/attention.html) from the [Attention is All You Need](https://arxiv.org/abs/1706.03762) work explains Tranformer implementation in line by line detail. Both links highly recommended.  
 * [Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf) Weston et. al 2014
 * [End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) Sukhbaatar et. al 2015
