@@ -79,7 +79,6 @@ Blogs and Newsletters
 - [Tutorials by Radim Řehůřek](https://radimrehurek.com/gensim/tutorial.html) on using Python and [gensim](https://radimrehurek.com/gensim/index.html) to process language corpora
 - [arXiv: Natural Language Processing (Almost) from Scratch](http://arxiv.org/pdf/1103.0398.pdf)
 - [Karpathy's The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness)
-- [Sebastian Ruder](http://ruder.io/#open)'s blog is focused on NLP Research
 
 ### Videos and Online Courses
 
@@ -137,6 +136,7 @@ Bayesian, statistics and Linguistics approaches for Natural Language Processing 
   - [Snips NLU](https://github.com/snipsco/snips-nlu) - A production ready library for intent parsing
   - [Chazutsu](https://github.com/chakki-works/chazutsu) - A library for downloading&parsing standard NLP research datasets
   - [Word Forms](https://github.com/gutfeeling/word_forms) - Word forms can accurately generate all possible forms of an English word
+  - [Multilingual Latent Dirichlet Allocation (LDA)](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A multilingual and extensible document clustering pipeline
 
 - <a id="c++">**C++** - C++ Libraries</a> | [Back to Top](#contents)
   - [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
