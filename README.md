@@ -13,6 +13,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Contents
 
 * [Research Summaries and Trends](#research-summaries-and-trends)
+* [Prominent NLP Research Labs](#prominent-nlp-research-labs)
 * [Tutorials](#tutorials)
   * [Reading Content](#reading-content)
   * [Videos and Courses](#videos-and-online-courses)
@@ -55,6 +56,18 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Highlights of EMNLP 2017: Exciting Datasets, Return of the Clusters, and More!](http://blog.aylien.com/highlights-emnlp-2017-exciting-datasets-return-clusters/)
 * [Deep Learning for Natural Language Processing (NLP): Advancements & Trends](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 * [Survey of the State of the Art in Natural Language Generation](https://arxiv.org/abs/1703.09902)
+
+## Prominent NLP Research Labs
+[Back to Top](#contents)
+
+* [The Berkeley NLP Group](http://nlp.cs.berkeley.edu/index.shtml) - Notable contributions include a tool to reconstruct long dead languages, referenced [here](https://www.bbc.com/news/science-environment-21427896) and by taking corpora from 637 languages currently spoken in Asia and the Pacific and recreating their descendant.
+* [Language Technologies Institute, Carnegie Mellon University](http://www.cs.cmu.edu/~nasmith/nlp-cl.html) - Notable projects include [Avenue Project](http://www.cs.cmu.edu/~avenue/), a syntax driven machine translation system for endangered lnaguages like Quechua and Aymara and previously, [Noah's Ark](http://www.cs.cmu.edu/~ark/) which created [AQMAR](http://www.cs.cmu.edu/~ark/AQMAR/) to imporve NLP tools for Arabic.
+* [NLP research group, Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi) - Responsible for creating BOLT ( interactive error handling for speech translation systems) and an un-named project to characterize laughter in dialogue.
+* [The Center or Language and Speech Processing, John Hopkins University](http://clsp.jhu.edu/) - Recently in the news for developing speech recognition software to create a diagnostic test or Parkinson's Disease, [here](https://www.clsp.jhu.edu/2019/03/27/speech-recognition-software-and-machine-learning-tools-are-being-used-to-create-diagnostic-test-for-parkinsons-disease/#.XNFqrIkzYdU).
+* [Computational Linguistics and Information Processing Group, University of Maryland](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) - Notable contributions include [Human-Computer Cooperation or Word-by-Word Question Answering](http://www.umiacs.umd.edu/~jbg/projects/IIS-1652666) and modeling development of phonetic representations. 
+* [Penn Natural Language Processing, University of Pennsylvania](http://nlp.cis.upenn.edu/index.php)- Famous for creating the [Penn Treebank](http://www.cis.upenn.edu/~treebank/).
+* [The Stanford Nautral Language Processing Group](https://nlp.stanford.edu/)- One of the top NLP research labs in the world, notable for creating [Stanford CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) and their [coreference resolution system](https://nlp.stanford.edu/software/dcoref.shtml)
+
 
 ## Tutorials
 [Back to Top](#contents)
@@ -331,13 +344,39 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 
 [Back to Top](#contents)
 
-### Hindi
-
 ### Data, Corpora and Treebanks
 
 - [Hindi Dependency Treebank](https://ltrc.iiit.ac.in/treebank_H2014/) - A multi-representational multi-layered treebank for Hindi and Urdu
 - [Universal Dependencies Treebank in Hindi](https://universaldependencies.org/treebanks/hi_hdtb/index.html)
   - [Parallel Universal Dependencies Treebank in Hindi](http://universaldependencies.org/treebanks/hi_pud/index.html) - A smaller part of the above-mentioned treebank.
+- [ISI FIRE Stopwords List (Hindi and Bangla)](https://www.isical.ac.in/~fire/data/)
+- [Peter Graham's Stopwords List](https://github.com/6/stopwords-json)
+- [NLTK Corpus](https://www.nltk.org/book/ch02.html) 60k Words POS Tagged, Bangla, Hindi, Marathi, Telugu
+- [Hindi Movie Reviews Dataset](https://github.com/goru001/nlp-for-hindi) ~1k Samples, 3 polarity classes
+- [BBC News Hindi Dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) 4.3k Samples, 14 classes
+- [IIT Patna Hindi ABSA Dataset](https://github.com/pnisarg/ABSA) 5.4k Samples, 12 Domains, 4k aspect terms, aspect and sentence level polarity in 4 classes
+- [Bangla ABSA](https://github.com/AtikRahman/Bangla_Datasets_ABSA) 5.5k Samples, 2 Domains, 10 aspect terms
+- [IIT Patna Movie Review Sentiment Dataset](https://www.iitp.ac.in/~ai-nlp-ml/resources.html) 2k Samples, 3 polarity labels
+
+#### Corpora/Datasets that need a login/access can be gained via email
+
+- [SAIL 2015](http://amitavadas.com/SAIL/) Twitter and Facebook labelled sentiment samples in Hindi, Bengali, Tamil, Telugu.
+- [IIT Bombay NLP Resources](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html) Sentiwordnet, Movie and Tourism parallel labelled corpora, polarity labelled sense annotated corpus, Marathi polarity labelled corpus.
+- [TDIL-IC aggregates a lot of useful resources and provides access to otherwise gated datasets](https://tdil-dc.in/index.php?option=com_catalogue&task=viewTools&id=83&lang=en)
+
+### Language Models and Word Embeddings
+
+- [Hindi2Vec](https://nirantk.com/hindi2vec/) and [nlp-for-hindi](https://github.com/goru001/nlp-for-hindi) ULMFIT style languge model
+- [IIT Patna Bilingual Word Embeddings Hi-En](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
+- [Fasttext word embeddings in a whole bunch of languages, trained on Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html)
+- [Hindi and Bengali Word2Vec](https://github.com/Kyubyong/wordvectors)
+- [Hindi and Urdu Elmo Model](https://github.com/HIT-SCIR/ELMoForManyLangs)
+
+### Libraries and Tooling
+
+- [Multi-Task Deep Morphological Analyzer](https://github.com/Saurav0074/mt-dma) Deep Network based Morphological Parser for Hindi and Urdu
+- [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan/indic_nlp_library) 18 Languages, whole host of features from tokenization to translation
+- [SivaReddy's Dependency Parser](http://sivareddy.in/downloads) Dependency Parser and Pos Tagger for Kannada, Hindi and Telugu. [Python3 Port](https://github.com/CalmDownKarm/sivareddydependencyparser)
 
 ## NLP in Thai
 
