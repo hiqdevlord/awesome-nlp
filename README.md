@@ -105,7 +105,6 @@ Blogs and Newsletters
 * [Deep Learning for Natural Language Processing (cs224-n)](https://web.stanford.edu/class/cs224n/) - Richard Socher and Christopher Manning's Stanford Course
 * [Neural Networks for NLP](http://phontron.com/class/nn4nlp2017/) - Carnegie Mellon Language Technology Institute there
 * [Deep NLP Course](https://github.com/yandexdataschool/nlp_course) by Yandex Data School, covering important ideas from text embedding to machine translation including sequence modeling, language models and so on. 
-* [fast.ai Code-First Intro to Natural Langauge Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) - This covers a blend of traditional NLP topics (including regex, SVD, naive bayes, tokenization) and recent neural network approaches (including RNNs, seq2seq, GRUs, and the Transformer), as well as addressing urgent ethical issues, such as bias and disinformation.  
 
 ### Books
 
@@ -445,6 +444,14 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - Natural language toolkit [bahasa](https://github.com/kangfend/bahasa)
 - [Indonesian Word Embedding](https://github.com/galuhsahid/indonesian-word-embedding)
 - Pretrained [Indonesian fastText Text Embedding](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.id.zip) trained on Wikipedia
+
+## NLP in Urdu
+
+### Datasets
+- [Collection of Urdu datasets](https://github.com/mirfan899/Urdu) for POS, NER and NLP tasks
+
+### Libraries
+- [Natural Language Processing library](https://github.com/urduhack/urduhack) for ( 🇵🇰)Urdu language
 
 ### Other Languages 
 
