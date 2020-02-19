@@ -112,7 +112,7 @@ Blogs and Newsletters
 
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - free, by Prof. Dan Jurafsy
 * [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class) - free, NLP notes by Dr. Jacob Eisenstein at GeorgiaTech 
-* [NLP with PyTorch] - Brian & Delip Rao 
+* [NLP with PyTorch](https://github.com/joosthub/PyTorchNLPBook) - Brian & Delip Rao 
 * [Text Mining in R](https://www.tidytextmining.com)
 * [Natural Language Processing with Python](https://www.nltk.org/book/)
 
@@ -236,7 +236,6 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [LightTag](https://lighttag.io) - Hosted and managed text annotation tool for teams, costs $
 - [rstWeb](https://corpling.uis.georgetown.edu/rstweb/info/) - open source local or online tool for discourse tree annotations
 - [GitDox](https://corpling.uis.georgetown.edu/gitdox/) - open source server annotation tool with GitHub version control and validation for XML data and collaborative spreadsheet grids
-- [Label Studio](https://www.heartex.ai/) - Hosted and managed text annotation tool for teams, freemium based, costs $
 
 ## Techniques
 
@@ -334,6 +333,9 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [jieba](https://github.com/fxsjy/jieba#jieba-1) - Python package for Words Segmentation Utilities in Chinese
 - [SnowNLP](https://github.com/isnowfy/snownlp) - Python package for Chinese NLP
 - [FudanNLP](https://github.com/FudanNLP/fnlp) - Java library for Chinese text processing
+
+### Anthology
+- [funNLP](https://github.com/fighting41love/funNLP) - Collection of NLP tools and resources mainly for Chinese
 
 ## NLP in German
 
