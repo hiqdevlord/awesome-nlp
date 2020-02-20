@@ -88,6 +88,7 @@ Introductions and Guides to NLP
 * [Natural Language Processing: An Introduction](https://academic.oup.com/jamia/article/18/5/544/829676) - Oxford
 * [Deep Learning for NLP with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) - NLTK Tutorials, Jupyter notebooks 
+* [Train a new language model from scratch](https://huggingface.co/blog/how-to-train) - Hugging Face 🤗
 
 Blogs and Newsletters
 
@@ -128,6 +129,7 @@ Blogs and Newsletters
   * [Natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
   * [Poplar](https://github.com/synyi/poplar) - A web-based annotation tool for natural language processing (NLP)
   * [NLP.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots
+  * [node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering w/ DistilBERT in Node.js
 
 * <a id="python"> **Python** - Python NLP Libraries</a> | [Back to Top](#contents)
 
@@ -237,6 +239,11 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [rstWeb](https://corpling.uis.georgetown.edu/rstweb/info/) - open source local or online tool for discourse tree annotations
 - [GitDox](https://corpling.uis.georgetown.edu/gitdox/) - open source server annotation tool with GitHub version control and validation for XML data and collaborative spreadsheet grids
 
+### Libraries and Tooling
+
+* [Transformers](https://github.com/huggingface/transformers) - Natural Language Processing for TensorFlow 2.0 and PyTorch
+* [Tokenizers](https://github.com/huggingface/tokenizers) - Tokenizers optimized for Research and Production
+
 ## Techniques
 
 ### Text Embeddings
@@ -333,9 +340,6 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [jieba](https://github.com/fxsjy/jieba#jieba-1) - Python package for Words Segmentation Utilities in Chinese
 - [SnowNLP](https://github.com/isnowfy/snownlp) - Python package for Chinese NLP
 - [FudanNLP](https://github.com/FudanNLP/fnlp) - Java library for Chinese text processing
-
-### Anthology
-- [funNLP](https://github.com/fighting41love/funNLP) - Collection of NLP tools and resources mainly for Chinese
 
 ## NLP in German
 
