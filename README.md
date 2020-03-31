@@ -81,6 +81,7 @@ General Machine Learning
 * [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit?usp=sharing) from Google's Senior Creative Engineer explains Machine Learning for engineer's and executives alike
 * [AI Playbook](https://aiplaybook.a16z.com/) - a16z AI playbook is a great link to forward to your managers or content for your presentations
 * [Ruder's Blog](http://ruder.io/#open) by [Sebastian Ruder](https://twitter.com/seb_ruder) for commentary on the best of NLP Research
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) guide to managing larger linguistic annotation projects
 
 Introductions and Guides to NLP
 
@@ -99,6 +100,7 @@ Blogs and Newsletters
 * [arXiv: Natural Language Processing (Almost) from Scratch](https://arxiv.org/pdf/1103.0398.pdf)
 * [Karpathy's The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness)
 * [Machine Learning Mastery: Deep Learning for Natural Language Processing](https://machinelearningmastery.com/category/natural-language-processing)
+* [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 
 ### Videos and Online Courses
 [Back to Top](#contents)
@@ -215,6 +217,7 @@ Blogs and Newsletters
 - <a id="rust">**Rust**</a>
   - [whatlang](https://github.com/greyblake/whatlang-rs) — Natural language recognition library based on trigrams
   - [snips-nlu-rs](https://github.com/snipsco/snips-nlu-rs) - A production ready library for intent parsing
+  - [rust-bert](https://github.com/guillaume-be/rust-bert) - Ready-to-use NLP pipelines and Transformer-based models
 
 ### Services
 
