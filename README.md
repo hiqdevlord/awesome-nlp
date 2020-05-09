@@ -91,6 +91,7 @@ Introductions and Guides to NLP
 * [Deep Learning for NLP with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) - NLTK Tutorials, Jupyter notebooks 
 * [Train a new language model from scratch](https://huggingface.co/blog/how-to-train) - Hugging Face 🤗
+* [The Super Duper NLP Repo (SDNLPR)](https://notebooks.quantumstat.com/): Collection of Colab notebooks covering a wide array of NLP task implementations.
 
 Blogs and Newsletters
 
@@ -265,7 +266,7 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 [Back to Top](#contents)
 
 - ElMo - [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365) - [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - [TF Implementation](https://github.com/allenai/bilm-tf)
-- ULimFit - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) by Jeremy Howard and Sebastian Ruder
+- ULMFiT - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) by Jeremy Howard and Sebastian Ruder
 - InferSent - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) by facebook
 - CoVe - [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107)
 - Pargraph vectors - from [Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf). See [doc2vec tutorial at gensim](https://rare-technologies.com/doc2vec-tutorial/)
