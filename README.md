@@ -370,10 +370,6 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 
 [Back to Top](#contents)
 
-### Libraries
-
-- [spanlp](https://github.com/jfreddypuentes/spanlp) - Python library to detect, censor and clean profanity, vulgarities, hateful words, racism, xenophobia and bullying in texts written in Spanish. It contains data of 21 Spanish-speaking countries.
-
 ### Data
 
 - [Columbian Political Speeches](https://github.com/dav009/LatinamericanTextResources)
@@ -458,6 +454,8 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
+- [PhoBERT](https://github.com/VinAIResearch/PhoBERT) - Pre-trained language models for Vietnamese
+- [pyvi](https://github.com/trungtv/pyvi) - Python Vietnamese Core NLP Toolkit
 
 ### Data
 
