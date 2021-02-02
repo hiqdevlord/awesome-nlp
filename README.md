@@ -82,6 +82,7 @@ General Machine Learning
 * [AI Playbook](https://aiplaybook.a16z.com/) - a16z AI playbook is a great link to forward to your managers or content for your presentations
 * [Ruder's Blog](http://ruder.io/#open) by [Sebastian Ruder](https://twitter.com/seb_ruder) for commentary on the best of NLP Research
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) guide to managing larger linguistic annotation projects
+* [Depends on the Definition](https://www.depends-on-the-definition.com/) collection of blog posts covering a wide array of NLP topics with detailed implementation
 
 Introductions and Guides to NLP
 
@@ -260,7 +261,6 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [rstWeb](https://corpling.uis.georgetown.edu/rstweb/info/) - open source local or online tool for discourse tree annotations
 - [GitDox](https://corpling.uis.georgetown.edu/gitdox/) - open source server annotation tool with GitHub version control and validation for XML data and collaborative spreadsheet grids
 - [Label Studio](https://www.heartex.ai/) - Hosted and managed text annotation tool for teams, freemium based, costs $
-- [Konfuzio](https://konfuzio.com/en/) - team-first hosted and on-prem text, image and PDF annotation tool powered by active learning, freemium based, costs $
 
 ## Techniques
 
