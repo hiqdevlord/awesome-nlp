@@ -82,7 +82,6 @@ General Machine Learning
 * [AI Playbook](https://aiplaybook.a16z.com/) - a16z AI playbook is a great link to forward to your managers or content for your presentations
 * [Ruder's Blog](http://ruder.io/#open) by [Sebastian Ruder](https://twitter.com/seb_ruder) for commentary on the best of NLP Research
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) guide to managing larger linguistic annotation projects
-* [Depends on the Definition](https://www.depends-on-the-definition.com/) collection of blog posts covering a wide array of NLP topics with detailed implementation
 
 Introductions and Guides to NLP
 
@@ -123,6 +122,7 @@ Material can be found [here](https://github.com/aws-samples/aws-machine-learning
 * [NLP with PyTorch](https://github.com/joosthub/PyTorchNLPBook) - Brian & Delip Rao 
 * [Text Mining in R](https://www.tidytextmining.com)
 * [Natural Language Processing with Python](https://www.nltk.org/book/)
+* [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 
 ## Libraries
 
