@@ -113,6 +113,8 @@ Blogs and Newsletters
 * [fast.ai Code-First Intro to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) - This covers a blend of traditional NLP topics (including regex, SVD, naive bayes, tokenization) and recent neural network approaches (including RNNs, seq2seq, GRUs, and the Transformer), as well as addressing urgent ethical issues, such as bias and disinformation. Find the Jupyter Notebooks [here](https://github.com/fastai/course-nlp)
 * [Machine Learning University - Accelerated Natural Language Processing](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) - Lectures go from introduction to NLP and text processing to Recurrent Neural Networks and Transformers.
 Material can be found [here](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp).
+* [Applied Natural Language Processing](https://www.youtube.com/playlist?list=PLH-xYrxjfO2WyR3pOAB006CYMhNt4wTqp)- Lecture series from IIT Madras taking from the basics all the way to autoencoders and everything. The github notebooks for this course are also available [here](https://github.com/Ramaseshanr/anlp)
+* [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi/playlists). His ideas on NLP. He has been a grandmaster at kaggle for 4 times.
 
 
 ### Books
@@ -277,7 +279,7 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 
 [Back to Top](#contents)
 
-- ElMo - [Deep Contextualized Word Representations](https://arxiv.org/abs/1802.05365) - [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - [TF Implementation](https://github.com/allenai/bilm-tf)
+- ElMo - [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365) - [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - [TF Implementation](https://github.com/allenai/bilm-tf)
 - ULMFiT - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) by Jeremy Howard and Sebastian Ruder
 - InferSent - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) by facebook
 - CoVe - [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107)
